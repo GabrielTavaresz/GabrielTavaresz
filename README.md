@@ -37,7 +37,7 @@ Meu nome é Tavares e amo JoJo's Bizarre Adventure, minha linguagem de programa�
   
    <h2 align="center">💰 Donate</h2>
  
- Chave **Pix** para quem quiser que eu continue postando scripts ferramentas de pentest e vírus
+ Chave **Pix** para quem quiser que eu continue postando scripts, ferramentas de pentest e vírus
  ```
   (19) 99289-1236
  ```
