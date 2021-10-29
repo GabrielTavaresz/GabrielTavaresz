@@ -6,7 +6,6 @@
 
 # [ 🌀 ] Olá Bem vindo ao meu perfil, eu sou o Tavares.
 
-Instagram: https://www.instagram.com/tavaresgabss/
 
 - [ 🎶 ] Música favorita: Lil peep
 - [ 💬 ] Discord: Tavares#3810
