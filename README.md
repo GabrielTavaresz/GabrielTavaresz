@@ -11,10 +11,10 @@ Meu nome é Gabriel Tavares e sou fã do Elon musk, minha linguagem de programa�
 <blockquote>
   <ul>
     <li><em>Python</em></li>
-    <li><em>Ruby</em></li>
+    <li><em>c++/c</em></li>
     <li><em>Php</em></li>
     <li><em>C#</em></li>
-    <li><em>Java</em></li>
+    <li><em>Javascript</em></li>
   </ul>
 </blockquote>
 
