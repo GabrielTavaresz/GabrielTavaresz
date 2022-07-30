@@ -6,7 +6,7 @@
 - [ 💬 ] Discord: Tavares#3810
 
 
-Meu nome é Tavares e sou fã do Elon musk, minha linguagem de programação favorita é Python.
+Meu nome é Gabriel Tavares e sou fã do Elon musk, minha linguagem de programação favorita é Python.
 
 <h3>💻 <em>Langs</em></h3>
 <blockquote>
