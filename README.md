@@ -1,13 +1,13 @@
-# [ 👨🏻‍💻 ] Olá Bem vindo ao meu perfil, eu sou o Tavares.
+# [ 👨🏻‍💻 ] Hello Welcome to my profile, I'm Tavares.
 
 
-- [ 🎶 ] Música favorita: Lil peep
+- [ 🎶 ] Favorite song: Lil peep
 - [ 💬 ] Discord: Tavares#3810
 
 
-Meu nome é Gabriel Tavares e sou fã do Elon musk, minha linguagem de programação favorita é Python.
+My name is Gabriel Tavares and I'm a fan of Elon musk, my favorite programming language is Python.
 
-<h3>💻 <em>Langs</em></h3>
+<h3>💻 <em>Languages</em></h3>
 <blockquote>
   <ul>
     <li><em>Python</em></li>
@@ -26,7 +26,7 @@ Meu nome é Gabriel Tavares e sou fã do Elon musk, minha linguagem de programa�
 ---
 
 <details>
-  <summary> <b> Mais sobre mim </b> <i>(Clique aqui para expandir)</i> </summary>
+  <summary> <b> More about me </b> <i>(Click here to expand)</i> </summary>
   <br>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
