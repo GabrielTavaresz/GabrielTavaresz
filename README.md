@@ -2,7 +2,7 @@
 
 
 - [ 🎶 ] Favorite song: Lil peep
-- [ 💬 ] Discord: Tavares#3810
+- [ 💬 ] Discord: Tavares#7777
 
 
 My name is Gabriel Tavares and I'm a fan of Elon musk, my favorite programming language is Python.
